@@ -1,0 +1,17 @@
+body {
+    color: rgb(5, 189, 189);
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    text-decoration: underline
+}
+
+section {
+    text-align: center;
+}
+
+h4 {
+   background: rgb(0, 119, 128);
+}
