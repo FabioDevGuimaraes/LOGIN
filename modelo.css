@@ -5,7 +5,8 @@ body {
 
 header {
     text-align: center;
-    text-decoration: underline
+    text-decoration: underline;
+    color:  rgb(5, 189, 189)
 }
 
 section {
@@ -14,4 +15,10 @@ section {
 
 h4 {
    background: rgb(0, 119, 128);
+   margin-left: 38%;
+   margin-right: 38%;
+}
+
+div {
+    font: normal 12pt Arial;
 }
